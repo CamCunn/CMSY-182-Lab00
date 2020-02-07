@@ -13,7 +13,7 @@ Lab 0
 using namespace std;
 //headers for functions
 void validate(int&);
-string toLower(string stringToUpper);
+string toLower(string);
 void entry(string[],int*,int);
 void menu(string[], int*, int);
 void displayAnimals(string[],int*,int);
